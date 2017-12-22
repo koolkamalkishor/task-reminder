@@ -25,9 +25,9 @@ And the frameworks:
 
 * JQuery
 
-##Author
+## Author
 
-* Lucas Gabriel
+* Lucas Gabriel.
 
 ## Objective
 
