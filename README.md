@@ -13,7 +13,7 @@ Task Reminder
 
 #### To try it out or, you can find it online at
 
-[My Portfolio](www.lucasgabrielhonorio.com/projects/taskreminder)
+[My Portfolio](https://www.lucasgabrielhonorio.com/projects/taskreminder)
 
 ## Built With
 
