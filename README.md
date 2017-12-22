@@ -12,7 +12,8 @@ Task Reminder
 * JQuery
 
 ####To try it out or, you can find it online at
-[My Portfólio](www.lucasgabrielhonorio.com/projects/taskreminder)
+
+[My Portfolio](www.lucasgabrielhonorio.com/projects/taskreminder)
 
 ## Built With
 
