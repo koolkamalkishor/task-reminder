@@ -11,7 +11,7 @@ Task Reminder
 
 * JQuery
 
-####To try it out or, you can find it online at
+#### To try it out or, you can find it online at
 
 [My Portfolio](www.lucasgabrielhonorio.com/projects/taskreminder)
 
@@ -28,6 +28,10 @@ And the frameworks:
 ##Author
 
 * Lucas Gabriel
+
+## Objective
+
+#### practice what I've learned in my JavaScript Course.
 
 
 
